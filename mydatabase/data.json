@@ -1,0 +1,25 @@
+{
+  "User": [
+    {
+      "name": "Anish Bhandari",
+      "age": "20",
+      "city": "Ghaziabad",
+      "email": "anishbca2020@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "92ed",
+      "name": "Rohit",
+      "age": "20",
+      "city": "noida",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": "2960",
+      "name": "Shashank",
+      "age": "23",
+      "city": "vaishali",
+      "email": "shashank@gmail.com"
+    }
+  ]
+}
